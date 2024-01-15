@@ -3,7 +3,9 @@
 Here you will find detailed information about my experience, skills, and projects.
 
 
-CV+PORTAFOLIO:  https://github.com/camilasant-pvz5/int
+CV+PORTAFOLIO: https://github.com/camilasant-pvz5/int 
+
+Link directo: https://camilasant-pvz5.github.io/int/
 
 Fork 1: https://github.com/camilasant-pvz5/iLAnoth3r.github.io
 
