@@ -1,6 +1,6 @@
 h1 {font-family: 'Courier New', Courier, monospace; text-align: center; }
-h3 {font-family: 'Courier New', Courier, monospace; text-align: center; }   
-h4 {font-family: 'Courier New', Courier, monospace; text-align: center; }  
+h3 {font-family: 'Courier New', Courier, monospace; text-align: center;  ;}   
+h4 {font-family: 'Courier New', Courier, monospace; text-align: center;}  
 
 
 body {
@@ -38,7 +38,7 @@ h2 {
     }
 
     footer {
-        background-color: #5a6854;
+        background-color: #000000;
         color: white;
         text-align: center;
         margin: auto;
@@ -48,7 +48,8 @@ h2 {
     }
 
     img{ max-width: 100%;
-        height: 250px; width: 250px;}
+        height: 250px; width: 250px;
+        border-radius: 10px;}
     
    .boxes {display: flex;
             justify-content: space-between;
@@ -75,5 +76,5 @@ margin-top:5%; margin-bottom: 5%;}
   }
 
   body {
-    background-color: #e0c0f6; 
+    background-color: #e7d1f6; 
   }
